@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @ThiagoCOliv
 - 👀 Estou interessado em desenvolver websites, games, apps e soluções para problemas
-- 🌱 Recentemente estou estudando Javascript, HTML, CSS
+- 🌱 Recentemente estou estudando Typescript, Node e Angular
 - 💞️ Busco colaborar em projetos com criatividade e eficiencia para o trabalho ser finalizado com sucesso
 
 - 📫 Contato: 
