@@ -1,7 +1,7 @@
-- 👋 Olá, eu sou @ThiagoCOliv
-- 👀 Estou interessado em desenvolver websites, games, apps e soluções para problemas
-- 🌱 Recentemente estou estudando Typescript, Node e Angular
-- 💞️ Busco colaborar em projetos com criatividade e eficiencia para o trabalho ser finalizado com sucesso
+- 👋 Olá, eu sou @ThiagoCOliv (Thiago Correa)
+- 👀 Estou interessado em desenvolver soluções para problemas através da criação de websites, games, apps e sistemas que ajudem a melhorar o dia a dia das pessoas
+- 🌱 Recentemente estou estudando Typescript, Node, Angular e Java
+- 💞️ Busco colaborar em projetos com criatividade e eficiência para o garantir o sucesso dos mesmos
 
 - 📫 Contato: 
 - LinkedIn https://www.linkedin.com/in/thiago-correa-de-oliveira/
