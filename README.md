@@ -3,7 +3,7 @@
 - 💞️ Busco colaborar em projetos com criatividade e eficiência para o garantir o sucesso dos mesmos
 
 - 📫 Contato: 
-- LinkedIn https://www.linkedin.com/in/thiago-correa-de-oliveira/
+- LinkedIn https://www.linkedin.com/in/thiago-correa-dev
 
 <!---
 ThiagoCOliv/ThiagoCOliv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
